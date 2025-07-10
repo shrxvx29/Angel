@@ -1,0 +1,54 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #000000, #0a3d62);
+    color: #ffffff;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: #00aaff;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #aad8ff;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #00aaff;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.about, .song, .final {
+    margin-top: 50px;
+}
+
+h2 {
+    color: #00c6ff;
+}
+
+audio {
+    margin-top: 20px;
+    width: 80%;
+}
+
+footer {
+    margin-top: 60px;
+    font-size: 0.9rem;
+    color: #a5d8ff;
+}
